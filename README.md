@@ -1,15 +1,13 @@
-# asgard_assignment
+# Asgard
 
 A new Flutter project.
 
 ## Getting Started
+Set iOS Simulator or Android Emulator of Device Mock Location near by:
 
-This project is a starting point for a Flutter application.
+- [21.425588446814526, 73.05893221588187]()
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+so, You can see product's location near by user location.
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
