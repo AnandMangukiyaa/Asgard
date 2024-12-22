@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-Set iOS Simulator or Android Emulator of Device Mock Location near by:
+Set iOS Simulator or Android Emulator's Mock Location near by:
 
 - [21.425588446814526, 73.05893221588187]()
 
